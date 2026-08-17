@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "802967363100",
+    "project_id": "leo-confecciones",
+    "storage_bucket": "leo-confecciones.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:802967363100:android:b3060b6ce429a7691f49d9",
+        "android_client_info": {
+          "package_name": "com.example.leo_confecciones"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABDR8-rFnPdaaEwBZ3ly3rB44nPh31C8M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
